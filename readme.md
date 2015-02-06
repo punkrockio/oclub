@@ -1,8 +1,10 @@
-## oclub - One club
+## One club (oclub)
 
 One club is a crowdsourcing platform.
 
+### Framework
 
+The One club platform use Laravel PHP framework.
 
 ### License
 
