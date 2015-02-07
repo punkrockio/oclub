@@ -1,11 +1,14 @@
 ## One club (oclub)
 
+[![Latest Unstable Version](https://poser.pugx.org/shoully/oclub/v/unstable.svg)](https://packagist.org/packages/shoully/oclub)
+[![License](https://poser.pugx.org/shoully/oclub/license.svg)](https://packagist.org/packages/shoully/oclub)
+
 One club is a crowdsourcing platform.
 
 ### Framework
 
-The One club platform use Laravel PHP framework.
+We proudly use Laravel PHP framework.
 
 ### License
 
-The One club platform is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+One club is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.
